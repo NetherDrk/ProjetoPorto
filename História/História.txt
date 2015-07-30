@@ -1,0 +1,20 @@
+-Main character steps out of the boat
+ -Captain steps out of the boat
+  -Captain says: Thank you again for delivering the parcel for the mayor. Your help is very apreciated.
+   -Main character say: 1st Choice -> No problem
+     -Captain says: Thats a good lad.
+                    2st Choice-> Just hope the reward is big enough
+     -Captain says: Dont let money be everything in your life lad.
+  -Captain says: Anyway, I need to be going. Make sure the mayor receives the parcel!
+   -Captain enters boat
+      -Boat sails away
+-Personagem principal olha para placa
+ -Placa diz: Atravesse a ponte para chegar a Valkiria
+-Personagem principal atravessa o cenário
+-Personagem principal anda até a beira de ponte quebrada
+ -Personagem principal fala: Droga, agora como eu faço para chegar na cidade?
+  -Personagem principal se vira em direção de uma caverna
+   -Personagem principal fala: Talvez aquela caverna dê em algum lugar
+-Personagem principal entra em caverna
+
+   
