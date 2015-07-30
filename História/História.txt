@@ -1,13 +1,13 @@
--Oni steps out of the boat
- -Captain steps out of the boat
-  -Captain says: Thank you again for delivering the parcel for the mayor. Your help is very apreciated.
-   -Oni say: 1st Choice -> No problem
-     -Captain says: Thats a good lad.
-                    2st Choice-> Just hope the reward is big enough
-     -Captain says: Dont let money be everything in your life lad.
-  -Captain says: Anyway, I need to be going. Make sure the mayor receives the parcel!
-   -Captain enters boat
-      -Boat sails away
+-Oni pula do barco
+ -Capitão pula pra fora do barco
+ -Capitão fala: Obrigado por entregar o pacote para o prefeito. Sua ajuda é muito bem-vinda. 
+   -Oni fala: Primeira escolha -> Sem problemas
+      -Capitão fala: Obrigado novamente.
+   -Oni fala: Segunda escolha-> Espero que a recompensa seja bem generosa
+     -Capitão fala: Nao deixe que dinheiro seja tudo na sua vida garoto
+  -Capitão fala: Enfim, eu preciso ir. Certifique-se que o prefeito receba o pacote!
+   -Capitão entra no barco
+      -Barco vai embora 
 -Oni olha para placa
  -Placa diz: Atravesse a ponte para chegar a Valkiria
 -Oni atravessa o cenário
@@ -17,8 +17,8 @@
    -Oni fala: Talvez aquela caverna dê em algum lugar
 -Oni entra em caverna
 -Oni anda 3 passos
- -Bat entra em cena e ataca o personagem principal
-  -Oni derrota o slime
+ -Morcego entra em cena e ataca o Oni
+  -Oni derrota o morcego
    -Oni fala: Esta caverna já tem habitantes. Vou ter que tomar cuidado!
 -Oni encontra criança
  -Oni fala: O que você está fazendo aqui sozinha.
