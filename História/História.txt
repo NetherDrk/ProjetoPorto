@@ -1,20 +1,28 @@
--Main character steps out of the boat
+-Oni steps out of the boat
  -Captain steps out of the boat
   -Captain says: Thank you again for delivering the parcel for the mayor. Your help is very apreciated.
-   -Main character say: 1st Choice -> No problem
+   -Oni say: 1st Choice -> No problem
      -Captain says: Thats a good lad.
                     2st Choice-> Just hope the reward is big enough
      -Captain says: Dont let money be everything in your life lad.
   -Captain says: Anyway, I need to be going. Make sure the mayor receives the parcel!
    -Captain enters boat
       -Boat sails away
--Personagem principal olha para placa
+-Oni olha para placa
  -Placa diz: Atravesse a ponte para chegar a Valkiria
--Personagem principal atravessa o cenário
--Personagem principal anda até a beira de ponte quebrada
- -Personagem principal fala: Droga, agora como eu faço para chegar na cidade?
-  -Personagem principal se vira em direção de uma caverna
-   -Personagem principal fala: Talvez aquela caverna dê em algum lugar
--Personagem principal entra em caverna
+-Oni atravessa o cenário
+-Oni anda até a beira de ponte quebrada
+ -Oni fala: Droga, agora como eu faço para chegar na cidade?
+  -Oni se vira em direção de uma caverna
+   -Oni fala: Talvez aquela caverna dê em algum lugar
+-Oni entra em caverna
+-Oni anda 3 passos
+ -Bat entra em cena e ataca o personagem principal
+  -Oni derrota o slime
+   -Oni fala: Esta caverna já tem habitantes. Vou ter que tomar cuidado!
+-Oni encontra criança
+ -Oni fala: O que você está fazendo aqui sozinha.
+  -Criança fala: Eu estava brincando e acabei chegando aqui. *sob* *sob* Você pode me levar de volta para casa?
+   -Oni fala: Claro, pode me seguir e cuidado!
 
-   
+    
