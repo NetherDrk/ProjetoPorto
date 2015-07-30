@@ -1,13 +1,15 @@
 -Oni pula do barco
  -Capitão pula pra fora do barco
- -Capitão fala: Obrigado por entregar o pacote para o prefeito. Sua ajuda é muito bem-vinda. 
-   -Oni fala: Primeira escolha -> Sem problemas
-      -Capitão fala: Obrigado novamente.
-   -Oni fala: Segunda escolha-> Espero que a recompensa seja bem generosa
-     -Capitão fala: Nao deixe que dinheiro seja tudo na sua vida garoto
-  -Capitão fala: Enfim, eu preciso ir. Certifique-se que o prefeito receba o pacote!
-   -Capitão entra no barco
-      -Barco vai embora 
+ -Capitão fala: Obrigado por entregar o pacote para o prefeito, garoto... Qual era o seu nome mesmo?
+  -Oni escolhe o nome.
+   - Capitão fala: Enfim Oni, a sua ajuda é muito bem-vinda. 
+    -Oni fala: Primeira escolha-> Sem problemas
+      -Capitão fala: Obrigado novamente Oni.
+    -Oni fala: Segunda escolha-> Espero que a recompensa seja bem generosa
+     -Capitão fala: Nao deixe que dinheiro seja tudo na sua vida, garoto.
+     -Capitão fala: Enfim, eu preciso ir. Certifique-se que o prefeito receba o pacote!
+      -Capitão entra no barco
+       -Barco vai embora 
 -Oni olha para placa
  -Placa diz: Atravesse a ponte para chegar a Valkiria
 -Oni atravessa o cenário
@@ -22,7 +24,30 @@
    -Oni fala: Esta caverna já tem habitantes. Vou ter que tomar cuidado!
 -Oni encontra criança
  -Oni fala: O que você está fazendo aqui sozinha.
-  -Criança fala: Eu estava brincando e acabei chegando aqui. *sob* *sob* Você pode me levar de volta para casa?
+  -Criança fala: Eu estava brincando e acabei chegando aqui. sob sob Você pode me levar de volta para casa?
    -Oni fala: Claro, pode me seguir e cuidado!
-
-    
+-Oni acha baú
+ -Baú contem: 30 moedas
+-Oni encontra Demônio Machucado
+ -Demônio Machucado fala: Mortal, o que fazes aqui?
+  -Oni pensa: O que um demônio está fazendo aqui?
+   -Demônio Machucado fala: Normalmente eu lhe mataria, Mortal, mas me encontro em uma situação desfavoravel. Então eu proponho um acordo.
+    -Oni fala: Acordo?
+     -Me dê a criança, e eu pouparei a sua vida. Caso escolha me desafiar, a morte é o único destino que o espera.
+      -Oni fala: Primeira escolha: Não entregarei a criança a você, monstro vil!
+       -Oni batalha Demônio Machucado
+        -Oni derrota Demônio Machucado
+         -Demônio Machucado fala: ugh Como um mortal pode me derrotar? ugh
+          -Oni ganha item Coração de Demônio
+           -Criança fala: Que monstro assustador! sob sob O que ele queria conosco?
+            -Oni fala: Você não ouviu?
+             -Criança fala: eu só ouvi ele rosnando em nossa direção!
+              -Oni pensa: Isso é muito estranho...
+               -Oni fala: Enfim, vamos sair daqui.
+      -Oni fala: Segunda escolha: Eu não vou ousar batalhar um Demônio! Leve a criança.
+       -Criança fala: Por favor não! sob sob
+        -Demônio Machucado consome a criança
+         -Demônio Machucado vira Demônio
+          -Demônio fala: Agora eu sairei. Até a próxima, patético mortal!
+           -Oni fala: Eu não tinha escolha. Eu não poderia lutar contra um demônio! Eu devo ir para a cidade.
+-Oni sai da caverna
