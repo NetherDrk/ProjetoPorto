@@ -1,0 +1,53 @@
+Jogador sai do barco.
+
+O capitão pula do barco.
+
+Capitão: Obrigado por poder entregar o pacote para o prefeito, garoto. Qual era o seu nome mesmo?
+
+Jogador escolhe o nome.
+
+Capitão: Enfim Principal, a sua ajuda é muito bem-vinda!
+
+Jogador: - Sem problemas ( Capitão: Obrigado novamente Principal!)
+           - Espero que a recompensa seja bem generosa ( Capitão: Não deixe que o dinheiro seja tudo na sua vida, garoto.)
+
+Capitão entra no barco.
+
+Barco vai embora.
+
+Jogador olha pra placa.
+
+Placa: Atravesse a ponte para chegar a Valkiria.
+
+Jogador atravessa o cenário.
+
+Jogador	anda até a beira de ponte quebrada.
+
+Jogador: Droga, agora como eu faço para chegar na cidade?
+
+Jogador se vira em direção de uma caverna.
+
+Jogador: Talvez aquela caverna dê em algum lugar.
+
+Jogador entra na caverna.
+
+Jogador anda 3 passos.
+
+Morcego entra em cena e ataca Jogador.
+
+Jogador derrota o morcego.
+
+Jogador: Esta caverna já tem habitantes. Vou ter que tomar cuidado!
+
+Jogador encontra criança.
+
+Jogador: O que você está fazendo aqui sozinha?
+
+Criança: Eu estava brincando e acabei chegando. Snif, Snif. Você pode me levar de voltar para casa?
+
+Jogador: - Claro, pode me seguir e cuidado!
+         - Pode me seguir, mas fique de boca fechada!
+
+Jogador acha um baú.
+
+Baú contém 30 golds.    
