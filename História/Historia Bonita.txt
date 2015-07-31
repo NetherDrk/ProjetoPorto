@@ -50,4 +50,5 @@ Jogador: - Claro, pode me seguir e cuidado!
 
 Jogador acha um baú.
 
-Baú contém 30 golds.    
+Baú contém 30 golds. 
+   
