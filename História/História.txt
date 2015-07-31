@@ -51,3 +51,16 @@
           -Demônio fala: Agora eu sairei. Até a próxima, patético mortal!
            -Oni fala: Eu não tinha escolha. Eu não poderia lutar contra um demônio! Eu devo ir para a cidade.
 -Oni sai da caverna
+-Oni fala: Agora eu posso continuar o caminho para a cidade!
+-Oni atravessa o mapa para Portões da Cidade
+-Oni fala: Finalmente estou aqui!
+ -Mulher Preocupada entra em cena
+  -Mulher Preocupada fala: Você veio do sul da cidade. Você viu o meu filho?
+   -Se tiver item Criança: Sim, eu achei ele na caverna!
+    -Criança fala: Mãaaaaaae!!! sob sob
+     -Mulher Preocupada fala: Meu filho! Você está bem!
+      -Mulher Preocupada fala: Obrigado Senhor. Por favor, fale com o meu marido. Ele é o ferreiro da cidade. Talvez ele consiga lhe recompensar de alguma forma.
+-Oni fala com Guarda da Cidade
+ -Oni fala: Como eu faço para chegar no Castelo do Prefeito?
+  -Guarda da cidade fala: Siga reto assim que entrar na cidade e chegará lá. Bem vindo à Valkiria
+-Oni entra em Valkiria
